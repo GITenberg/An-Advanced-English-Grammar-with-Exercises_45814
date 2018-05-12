@@ -1,0 +1,32 @@
+_repo: An-Advanced-English-Grammar-with-Exercises_45814
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45814-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Farley, Frank Edgar
+    birthdate: 1868
+    gutenberg_agent_id: '43476'
+    url: http://www.gutenberg.org/2009/agents/43476
+  - agent_name: Kittredge, George Lyman
+    alias: Kittredge, G. L. (George Lyman)
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '43475'
+    url: http://www.gutenberg.org/2009/agents/43475
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45814'
+  lccn: tmp96027991
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Grammar'
+- !lcc 'PE'
+title: An Advanced English Grammar with Exercises
+url: http://www.gutenberg.org/ebooks/45814
