@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43475'
     url: http://www.gutenberg.org/2009/agents/43475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45814#An-Advanced-English-Grammar-with-Exercises
 gutenberg_issued: '2014-05-29'
 gutenberg_type: Text
 identifiers:
